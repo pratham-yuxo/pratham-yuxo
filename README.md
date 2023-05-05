@@ -3,8 +3,6 @@
 
 - 🌱 Learning Never Stops 🚀
 
--  Currently diving deep into react-native
-
 - 💬 Ask me about **Web Development, Blockchain, React-native app development**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
