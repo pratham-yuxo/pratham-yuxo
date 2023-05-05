@@ -3,7 +3,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Blockchain, React-native app development**
+- 💬 Ask me about **Web Development, Blockchain etc. **
 
 - 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
 
