@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, Blockchain etc. **
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://pratham-portfolio-black.vercel.app/" target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
